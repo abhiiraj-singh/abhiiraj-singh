@@ -1,6 +1,6 @@
 ![logo](https://github.com/abhiiraj-singh/abhiiraj-singh/blob/main/Abhiraj%20Singh.png)
 <h1 align="center">Hi,I'm Abhiraj Singh</h1>
-<h3 align="center">A passionate Analyst from India</h3>
+<h3 align="center">A passionate Analyst</h3>
 <img align="right" alt="analysis" width="400" src="https://images.hive.blog/0x0/https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
 
 - Need to reach me? Drop a line at **abhiirajrao@gmail.com** 📧
