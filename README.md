@@ -14,11 +14,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>
-<div align="center">
-  <a href= **abhiirajrao@gmail.com** target="_blank">
-<img src=https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
-</a>
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/abhiirajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhirajsingh18" height="30" width="40" /></a>
