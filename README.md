@@ -15,7 +15,7 @@
 </a>  
 </div>
 <div align="center">
-  <a href="https://myaccount.google.com/u/2/google-account-email?continue=https://myaccount.google.com/u/2/profile?pageId%3Dnone&rapt=AEjHL4MWKeEfD2JrF-fPl2nuTvW11m470Khi-80Fij_yCgnNzzUKXweJNrEmxUD7xqvTYflQaV9x4SeoLTPg_9hBmIxFn5Q4K9cgAQGttzTRplwInTF4wXo" target="_blank">
+  <a href= **abhiirajrao@gmail.com** target="_blank">
 <img src=https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
 </a>
 </div>
