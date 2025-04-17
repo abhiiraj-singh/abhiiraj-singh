@@ -34,10 +34,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abhiiraj-singh&&style=flat-square" align="center" />
 </div>  
-
-
-&nbsp;<div align="center">
-[<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/31yterosbzajmza6dh7xan2dzsc4?si=e927469ca90a4750)
-  
-
-</div>
